@@ -45,10 +45,14 @@
   ],
   "devDependencies": {
     "@size-limit/preset-small-lib": "^7.0.8",
+    "@types/jest": "^28.1.7",
     "husky": "^8.0.1",
     "size-limit": "^7.0.8",
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^3.9.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
   }
 }
